@@ -53,7 +53,7 @@
 4. **groups:** This command is used to display all the groups for which the user belongs to.
 
    ```bash
-   $ group
+   $ groups
    sj: sj, adm, cdrom, sudo, dip, plugdev, lpadmin, lxd, sambashare
    ```
 
